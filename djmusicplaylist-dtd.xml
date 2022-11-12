@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE  music SYSTEM "djmusicplaylist.dtd">
+<music>
+  <playlist id="1">
+	 <genrename>Hip Hop</genrename>
+     <songname>Mind Playing Tricks on Me</songname>
+	 <artist>Geto Boys </artist>
+	 <release-in>1991</release-in>
+     <bpn>120</bpn>
+  </playlist>
+
+   <playlist id="2">
+	 <genrename>Romantic</genrename>
+     <songname>Perfect</songname>
+	 <artist>Ed Sheeran</artist>
+	 <release-in>2017</release-in>
+     <bpn>70</bpn>
+  </playlist>
+
+   <playlist id="3">
+	 <genrename>Country</genrename>
+     <songname>Fancy</songname>
+	 <artist>Reba McEntire</artist>
+	 <release-in>1990</release-in>
+     <bpn>100</bpn>
+  </playlist>
+</music>

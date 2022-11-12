@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT music (playlist+)>
+<!ELEMENT playlist (genrename, songname, artist, release-in, bpn)>
+<!ELEMENT genrename (#PCDATA)>
+<!ELEMENT songname (#PCDATA)>
+<!ELEMENT artist (#PCDATA)>
+<!ELEMENT release-in (#PCDATA)>
+<!ELEMENT bpn (#PCDATA)>
+<!ATTLIST playlist id CDATA #REQUIRED>
